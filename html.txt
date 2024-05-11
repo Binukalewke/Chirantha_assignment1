@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Custom Website</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<div class="wrapper">
+			<nav class="navbar">
+				<img class="logo" src="logo.png">
+				<ul>
+					<li><a class="active" href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Services</a></li>
+					<li><a href="#">Contact</a></li>
+					<li><a href="#">Feedback</a></li>
+				</ul>
+			</nav>
+			<div class="center">
+			<h1>Welcome To Cascade</h1>
+			<h2>Create Something New</h2>
+			<div class="buttons">
+			<button>Explore More</button>
+			<button class="btn2">Subscribe Us</button>
+		</div>
+		</div>
+	</header>
+	<main>
+		
+	</main>
+	
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="footer-col">
+						<h4>company</h4>
+						<ul>
+							<li><a href="#">about us</a></li>
+							<li><a href="#">our services</a></li>
+							<li><a href="#">location</a></li>
+							<li><a href="#">privacy policy</a></li>
+						</ul>
+					</div>
+					<div class="footer-col">
+						<h4>get help</h4>
+						<ul>
+							<li><a href="#">FAQ</a></li>
+							<li><a href="#">shipping</a></li>
+							<li><a href="#">returns</a></li>
+							<li><a href="#">order status</a></li>
+							<li><a href="#">payment options</a></li>
+						</ul>
+					</div>
+					<div class="footer-col">
+						<h4>online shop</h4>
+						<ul>
+							<li><a href="#">fruits & vegetables</a></li>
+							<li><a href="#">meat</a></li>
+							<li><a href="#">dairy products</a></li>
+							<li><a href="#">bakey products</a></li>
+	
+						</ul>
+					</div>
+					<div class="footer-col">
+						<h4>follow us</h4>
+						<div class="social-links">
+							<a href="#"><i class="fab fa-facebook-f"></i></a>
+							<a href="#"><i class="fab fa-twitter"></i></a>
+							<a href="#"><i class="fab fa-instagram"></i></a>
+							<a href="#"><i class="fab fa-linkedin-in"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+	   </footer>
+
+</body>
+</html>
